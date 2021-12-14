@@ -1,4 +1,4 @@
-
+#import numpy as np
 class calculadora:
 
     def menu(self):
